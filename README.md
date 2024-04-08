@@ -1,3 +1,4 @@
+![Logo UNAHUR](./assets/UNAHUR.png)
 
 # Diego Contreras
 
